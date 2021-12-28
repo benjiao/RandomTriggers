@@ -1,1 +1,1 @@
-This repo has moved to: https://github.com/benjiaomodular/RandomTriggers.
+This project has moved to: https://github.com/benjiaomodular/RandomTriggers.
